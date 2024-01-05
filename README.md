@@ -4,6 +4,7 @@
 - Prática de **HTML,CSS** e **JS**;
 - Responsividade aplicada.
 
+
  ⚠️  (Faltando Deploy)
  
  ⚠️  (Faltando Responsividade)
