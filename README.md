@@ -5,6 +5,7 @@
 - Responsividade aplicada.
 
  ⚠️  (Faltando Deploy)
+ 
  ⚠️  (Faltando Responsividade)
 
   ![image](https://github.com/diandrade/alu-html-css-1/assets/81432715/2eb9a32c-a600-4c2b-a8e0-747bc0566633)
