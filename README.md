@@ -3,9 +3,6 @@
 - Realização de um portifólio pessoal baseada nas aulas da Alura;
 - Prática de **HTML,CSS** e **JS**;
 - Responsividade aplicada.
-
-
- ⚠️  (Faltando Deploy)
  
  ⚠️  (Faltando polir responsividade)
 
